@@ -1,5 +1,4 @@
 # PidFile: The file in which the server should record its process
 # identification number when it starts.
 #
-# Note that this is the default PidFile for most MPMs ARE THE BEST!!!.
 #
